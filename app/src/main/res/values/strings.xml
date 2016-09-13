@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Datos</string>
+    <string name="Titulo">Confirmar datos</string>
+    <string name="nombre">Nombre</string>
+    <string name="Fecha_nacimiento">Nacimeinto</string>
+    <string name="tel">TEL</string>
+    <string name="Email">Email</string>
+    <string name="Descrip">Descripcion</string>
+    <string name="Editar_datos">Editar Datos</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="date_label_set">Press the button to set the date</string>
+    <string name="date_button_set">Set Date</string>
+    <string name="date_view_set">The Date is: </string>
+    <string name="date_selected"></string>
+</resources>
